@@ -1,0 +1,11 @@
+language: clojure
+lein: lein2
+jdk:
+- openjdk6
+deploy:
+  provider: heroku
+  api_key:
+    secure: SC8UeVQPAI9mvGhZWC1zMOj8Svjoy7SvqT06P/7kqlUn/7YNDIDCuLxK7OrG6926A06xmrCZ66C8uCZCBESlrgW5xrwxBvwFskIV1A+qcWI0YcJSpYPMVKa7wUbBf1tcrpszXVetXHlwE5TsRkeX9SMS5sgPhHf1xSJ3+ubKYpU=
+  app: fanhaf-fav-tweet-agent
+  on:
+    repo: fanhaf/fav-tweet-agent
