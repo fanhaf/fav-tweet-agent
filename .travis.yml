@@ -5,7 +5,7 @@ jdk:
 deploy:
   provider: heroku
   api_key:
-    secure: SC8UeVQPAI9mvGhZWC1zMOj8Svjoy7SvqT06P/7kqlUn/7YNDIDCuLxK7OrG6926A06xmrCZ66C8uCZCBESlrgW5xrwxBvwFskIV1A+qcWI0YcJSpYPMVKa7wUbBf1tcrpszXVetXHlwE5TsRkeX9SMS5sgPhHf1xSJ3+ubKYpU=
+    secure: KlYTdTA9HmbqeWMcC5kjFpIcO8IPBTMt9Jt3A1LbZCOcF4FPuljYzOPWHswldeB5+sZgcGUjKuiGNYSdVov/vmGoBYJDhyFVkexMdPf3dHQQmjfLv39yIxP9Mzn821ba/lQHMOzO3E8h2V5wr+Tx9Jn4wa7jVbv+vnqUbEXiB2Q=
   app: fanhaf-fav-tweet-agent
   on:
     repo: fanhaf/fav-tweet-agent
