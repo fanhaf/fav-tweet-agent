@@ -1,5 +1,7 @@
 # fav-tweet-agent
 
+[![Build Status](https://travis-ci.org/fanhaf/fav-tweet-agent.png?branch=master)](https://travis-ci.org/fanhaf/fav-tweet-agent)
+
 A [Heroku](http://www.heroku.com) web app using Compojure.
 
 This generated project has a few basics set up beyond the bare Compojure defaults:
